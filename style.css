@@ -55,6 +55,15 @@ a:hover {
   color: lightgray;
 }
 
+#footer a {
+  color: lightgray;
+  font-size: 15px;
+}
+
+#footer a:hover {
+  color: white;
+}
+
 .card {
   padding: 50px;
   font-weight: lighter;
